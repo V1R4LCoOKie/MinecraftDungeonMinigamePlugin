@@ -1,0 +1,7 @@
+name: DungeonMinigame
+main: _NoVa_CoOKie.Control
+version: 1.0
+permissions:
+   minigame.*:
+      description: Allows use of any commands in this plugin.
+      default: op
